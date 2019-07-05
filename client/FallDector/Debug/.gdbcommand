@@ -1,0 +1,5 @@
+set sysroot /home/helong/tizen-studio/tools/smart-build-interface/../../platforms/tizen-4.0/wearable/rootstraps/wearable-4.0-device.core.private
+set debug-file-directory /home/helong/tizen-studio/tools/smart-build-interface/../../platforms/tizen-4.0/wearable/rootstraps/wearable-4.0-device.core.private/usr/lib/debug
+set solib-search-path /home/helong/share/4.0_workspace/FallDector/Debug
+dir /home/helong/tizen-studio/tools/smart-build-interface/../../platforms/tizen-4.0/wearable/rootstraps/wearable-4.0-device.core.private/usr/src/debug
+sharedlibrary
