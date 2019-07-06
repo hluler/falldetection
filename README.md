@@ -25,6 +25,6 @@ use the MobiFall and MobiAct datasets, you can download it [here](https://bmi.te
 ----fall_detection_server.py<br>
   this is a simple server application, running it before running client application.
 
-----tain.ipynb
+----tain.ipynb<br>
   this is the training process, I am lazy, and do not reorganized the code, and remove the log, you may need to prepare the machine learing environment first, and download the dataset.
   
